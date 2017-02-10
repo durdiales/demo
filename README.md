@@ -11,7 +11,7 @@ This is the most basic Docker Tomcat example to demonstrate how an image is buil
 
 You can clone this project:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-git clone https://github.com/dchqinc/basic-docker-tomcat-example.git
+git clone https://github.com/durdiales/demo.git
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Build an image using the cloned project
